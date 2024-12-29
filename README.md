@@ -29,8 +29,8 @@ The daily items I need to record are:
 - **Todo** - I always have lots on my plate to accomplish and cannot possibly keep them in my head, so need a mechanism to record them and cross them off when completed.
 
 ## Tools
-(**pandoc**)[https://pandoc.org/] is able to convert from MD to any other format
+[**pandoc**](https://pandoc.org/) is able to convert from MD to any other format
 
-(**VSCode**)[https://code.visualstudio.com/] is a universal editor, with plugins it makes this a powerfult editor
+[**VSCode**](https://code.visualstudio.com/) is a universal editor, with plugins it makes this a powerfult editor
 
  
