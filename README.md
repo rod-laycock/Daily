@@ -26,7 +26,7 @@ The daily items I need to record are:
 - **Meetings** - I spend a lot of times in meetings and need to record what happens, I also want this to be easily sendable in HTML format.
 - **Research** - I sometimes do some reasearch into things, and I want to record the outcomes.
 -  **Notes** - I sometimes need to take ad-hoc notes on specific items.
-- **todo** - I always have lots on my plate to accomplish and cannot possibly keep them in my head, so need a mechanism to record them and cross them off when completed.
+- **Todo** - I always have lots on my plate to accomplish and cannot possibly keep them in my head, so need a mechanism to record them and cross them off when completed.
 
 
  
