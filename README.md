@@ -33,4 +33,4 @@ The daily items I need to record are:
 
 [**VSCode**](https://code.visualstudio.com/) is a universal editor, with plugins it makes this a powerfult editor
 
- 
+[notify-send](https://manpages.org/notify-send) display popups in linux & [notify-send](https://vaskovsky.net/notify-send/) displays popups in Windows
